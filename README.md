@@ -4,7 +4,7 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
-* v2.3.0
+### v2.3.0
 
 Supported connecting methods: BES/MDS, TCP, WiFi.
 
