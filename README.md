@@ -1,8 +1,6 @@
-## DevTracBB
+## DevTracBB Releases
 
-# RELEASES
-
-##### DevTrac release notes are specific to each version of the application. Please refer to the below changes log to select your version.
+DevTrac release notes are specific to each version of the application. Please refer to the below change log to select your version.
 
 ## Change Log
 
