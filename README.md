@@ -1,6 +1,19 @@
 ## DevTracBB
+
 # RELEASES
 
+##### DevTrac release notes are specific to each version of the application. Please refer to the below changes log to select your version.
 
-##### DevTrac release notes are specific to each version of the application. Select your version from the list below to get the installation files.
+## Change Log
+
+* v2.3.0
+
+Supported connecting methods: BES/MDS, TCP, WiFi.
+
+## Installing
+
+1. Click the "Zip" or "Downloads" link on this page to get all releases in a zip file. If you have any problems to find the link, just click [here](https://github.com/devtrac/releases/zipball/master) to start your download.
+2. Extract the zip file to your local filesystem, and open the folder just extracted from the zip file.
+3. Choose a version and open it, load the .alx file using BlackBerry Desktop Software.
+4. Now you are ready to experience the DevTracBB.
 
