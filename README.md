@@ -4,6 +4,10 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
+### [v2.3.1](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.1)
+
+Supported BIS transport.
+
 ### [v2.3.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.0)
 
 Supported connecting methods: BES/MDS, TCP, WiFi.
