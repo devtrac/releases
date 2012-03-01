@@ -4,6 +4,10 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
+### [v2.3.2](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.2)
+
+Fix bug - cannot upload after editing an action item.
+
 ### [v2.3.1-b](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.1-b)
 
 Change entry point back to normal server.
