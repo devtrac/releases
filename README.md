@@ -4,6 +4,11 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
+
+### [v2.4.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.4.0)
+
+Supported setting screen from inital login screen
+
 ### [v2.3.2](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.2)
 
 Fix bug - cannot upload after editing an action item.
