@@ -4,10 +4,15 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
+<<<<<<< HEAD
+
+### [v2.5.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.5.0)
+
+Enhanced user feedback - progress indicators and error reporting (esp. in case of connectivity problems).
 
 ### [v2.4.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.4.0)
 
-Supported setting screen from inital login screen
+Supported setting screen from inital login screen.
 
 ### [v2.3.2](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.3.2)
 

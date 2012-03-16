@@ -1,0 +1,38 @@
+RIM-COD-SHA1-4: dc de 29 57 1d ec ca 13 57 4c 00 73 9a 7b a6 ea 29 c0 1b e3
+RIM-COD-SHA1-3: 9e c0 cd 06 0e 20 5b 49 d5 f2 57 35 5e f2 13 82 23 64 87 d4
+RIM-COD-SHA1-2: 39 a4 ac 61 d4 2d 21 5f 0e c2 42 6c be 10 74 e7 f4 d1 97 44
+RIM-COD-SHA1-1: 51 30 94 20 71 57 06 cd 58 9e d5 eb 6f 04 7e 7b 1b 3c f1 c6
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 328817
+MIDlet-Name: devTrac-Blackberry-46
+MIDlet-Jar-URL: devTrac-Blackberry-46.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: DevTrac Blackberry Client
+RIM-COD-URL-7: devTracBB-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_bbapi_invoke,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_pdap,net_rim_locationapi
+RIM-COD-URL-6: devTracBB-6.cod
+RIM-COD-URL-5: devTracBB-5.cod
+RIM-COD-URL-4: devTracBB-4.cod
+RIM-COD-URL-3: devTracBB-3.cod
+RIM-COD-URL-2: devTracBB-2.cod
+RIM-COD-URL-1: devTracBB-1.cod
+RIM-COD-Size-7: 38000
+RIM-COD-Size-6: 50300
+RIM-COD-Size-5: 52772
+RIM-COD-Size-4: 44084
+RIM-COD-Size-3: 46244
+RIM-COD-Module-Name: devTracBB
+RIM-COD-Size-2: 58072
+RIM-COD-Size-1: 49100
+RIM-COD-SHA1: 77 9d bd fd d9 09 0e de bf 83 c9 5d 45 99 6e 49 3d bf fc 25
+RIM-COD-Size: 40820
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Unicef
+MIDlet-1: DevTrac,res/img/icon.png,
+RIM-COD-URL: devTracBB.cod
+Manifest-Version: 1.0
+MIDlet-Version: 2.5.0
+RIM-COD-SHA1-7: 48 95 95 8c 95 98 a9 5a da a4 06 3e 96 85 a6 83 bf 2a 46 26
+RIM-COD-Creation-Time: 1331878214
+RIM-COD-SHA1-6: 6b d5 b0 f8 28 21 94 41 8d 2e ee b0 7d fa af e9 5a d7 92 60
+RIM-COD-SHA1-5: 1e 18 7a 63 4b 98 10 30 eb 94 c1 9d 37 10 9e 8e d0 41 d6 35
