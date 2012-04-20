@@ -4,7 +4,11 @@ DevTrac release notes are specific to each version of the application. Please re
 
 ## Change Log
 
-<<<<<<< HEAD
+### [v2.6.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.6.0)
+
+Capturing of GPS coordinates for new site visits and uploading the data to geo.devtrac.org .
+Add a "Date Visited" field to Report Items.
+Ability to download previous Location history and Action Items for offline reference.
 
 ### [v2.5.0](https://github.com/devtrac/releases/tree/master/DevTracBB-v2.5.0)
 
