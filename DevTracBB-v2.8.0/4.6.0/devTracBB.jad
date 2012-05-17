@@ -1,0 +1,62 @@
+RIM-COD-URL-14: devTracBB-14.cod
+RIM-COD-SHA1-4: bd fd 8a 06 4a 95 23 94 5d 2d 52 de dd dc d9 38 6d a3 69 35
+RIM-COD-URL-13: devTracBB-13.cod
+RIM-COD-SHA1-3: f5 e4 42 a5 cf 46 d0 6c 9c 0d c7 a7 35 ee 73 b6 12 99 ec cd
+RIM-COD-URL-12: devTracBB-12.cod
+RIM-COD-SHA1-2: 8d 3a b0 2c 5d fe a4 77 81 29 b4 1b 2f ab 90 d3 50 5a fa 4c
+RIM-COD-URL-11: devTracBB-11.cod
+RIM-COD-SHA1-1: 21 b1 20 d0 98 e7 b5 dd 39 39 0f 79 a0 a8 fb 43 04 a3 8e 66
+RIM-COD-URL-10: devTracBB-10.cod
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 560846
+MIDlet-Name: devTrac
+MIDlet-Jar-URL: devTrac.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: DevTrac Blackberry Client
+RIM-COD-URL-9: devTracBB-9.cod
+RIM-COD-URL-8: devTracBB-8.cod
+RIM-COD-URL-7: devTracBB-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_bbapi_invoke,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_pdap,net_rim_locationapi
+RIM-COD-URL-6: devTracBB-6.cod
+RIM-COD-URL-5: devTracBB-5.cod
+RIM-COD-URL-4: devTracBB-4.cod
+RIM-COD-URL-3: devTracBB-3.cod
+RIM-COD-URL-2: devTracBB-2.cod
+RIM-COD-URL-1: devTracBB-1.cod
+RIM-COD-Size-9: 26804
+RIM-COD-Size-8: 56012
+RIM-COD-Size-7: 50452
+RIM-COD-Size-6: 55584
+RIM-COD-Size-5: 53516
+RIM-COD-Size-4: 53536
+RIM-COD-Size-3: 51712
+RIM-COD-Module-Name: devTracBB
+RIM-COD-Size-2: 56256
+RIM-COD-Size-1: 51324
+RIM-COD-SHA1: b6 47 0c e0 4f 34 b7 73 51 e8 bb 21 5c 46 55 9a 9b fd 84 36
+RIM-COD-Size: 57692
+RIM-COD-Size-15: 63932
+RIM-COD-Size-14: 52432
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-13: 51304
+RIM-COD-Size-12: 23120
+RIM-COD-Size-11: 34436
+RIM-COD-Size-10: 53552
+MIDlet-Vendor: Unicef
+MIDlet-1: DevTrac,res/img/icon.png,
+RIM-COD-SHA1-15: 37 e9 33 e3 15 b5 b8 11 93 fd e3 fd 06 05 67 ef af 74 d1 cd
+RIM-COD-SHA1-14: 3c 05 32 c5 70 5a e3 f4 dd c0 15 a5 2d b5 dc ac 6f 84 73 fd
+RIM-COD-URL: devTracBB.cod
+RIM-COD-SHA1-13: 93 47 41 97 02 9f 1f 6d bf c3 87 81 92 fd 2c 77 ee 15 1a 8a
+RIM-COD-SHA1-12: 97 f0 bc 86 93 56 6d a5 2a 71 dd a7 aa 7d 75 62 52 7a 28 1e
+RIM-COD-SHA1-11: bf ac 07 67 27 c7 f3 2e 6e 8f e3 f9 db 04 17 34 de 3f 72 71
+RIM-COD-SHA1-10: 5f 4b 7a 48 d8 7a 09 51 52 98 ff 78 9d da 45 fd 47 25 b3 77
+Manifest-Version: 1.0
+MIDlet-Version: 2.8.0
+RIM-COD-SHA1-9: 74 de c2 e5 6a 84 46 8a 62 77 52 cb 9e de ee c5 a0 57 87 0f
+RIM-COD-SHA1-8: dc 34 e2 77 39 05 a4 20 1b 9a b3 5e f5 bf a0 c0 f1 87 ba 1d
+RIM-COD-SHA1-7: c8 d9 6b 2c 7e b2 ed 66 16 7d 7c 45 d6 15 a6 e4 dc 24 9e fc
+RIM-COD-Creation-Time: 1337242928
+RIM-COD-SHA1-6: ba 83 54 61 63 33 85 7c 28 56 c4 81 3f 9b 8f 9e ed 2a 6a de
+RIM-COD-URL-15: devTracBB-15.cod
+RIM-COD-SHA1-5: 67 5e 95 ee f4 ea 45 07 a0 f9 56 88 be dd 1b f3 b2 59 83 52
